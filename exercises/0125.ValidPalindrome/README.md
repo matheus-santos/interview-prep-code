@@ -37,6 +37,7 @@ Constraints:
 
 | Submission stats |        |
 |-----------------:|--------|
+|  Resolution Time | 13m33s |
 |          Runtime | 21ms (beats 91.84%) |
 |           Memory | 13.96mb (beats 26.5%) |
 
@@ -52,7 +53,7 @@ Constraints:
 First, we need to prepare the string and get rid of all non-characters and also
 format it to all lower case. For this, we can use the `re` standard library:
 
-```py
+```
 import re
 
 class Solution(object):
