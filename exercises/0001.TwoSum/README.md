@@ -1,6 +1,6 @@
 # 1. Two Sum
 
-- Link: https://leetcode.com/problems/two-sum/description/
+- Link: https://leetcode.com/problems/two-sum
 - Level: Easy
 - Added in: 24-10-04
 - Topics: Array, HashTable
@@ -48,6 +48,7 @@ Output: [0,1]
 
 |                  |        |
 |-----------------:|--------|
+|      Brute Force | 9m47s  |
 |  Resolution Time | 19m47s |
 | Complexity Space | O(N)   |
 |  Complexity Time | O(N)   |
