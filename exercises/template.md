@@ -1,34 +1,24 @@
 # {title}
-{link to exercise}
 
-- Level: Easy | Medium | Hard
-- Added in: YY-MM-DD
-- Tags:
+- Link: -
+- Level: Medium
+- Added in: 
+- Topics: 
 
 ## Description
 
 ## Solutions
 
-### Solution 1: {approach}
-
-|                  |        |
+| Submission stats |        |
 |-----------------:|--------|
-|  Resolution Time | {min}m |
-| Complexity Space | O(n)   |
-|  Complexity Time | O(n)   |
+|          Runtime |  |
+|           Memory |  |
 
-{approach description}
+| Exercise results |        |
+|-----------------:|--------|
+|      Brute Force |  |
+|  Resolution Time |  |
+| Complexity Space |  |
+|  Complexity Time |  |
 
-**Pseudocode**
-
-```md
-Hello world
-```
-
-**Python3**
-
-```py
-print("Hello world")
-```
-
-{other languages}
+### Solution
